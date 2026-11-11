@@ -37,7 +37,7 @@
                 </Border>
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="妹抖酱"
-                               FontSize="15"
+                               FontSize="15.5"
                                FontWeight="Bold"
                                Foreground="White"/>
                     <TextBlock 
