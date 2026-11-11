@@ -40,7 +40,7 @@
                                FontSize="15"
                                FontWeight="Bold"
                                Foreground="White"/>
-                    <TextBlock Text="更轻盈的对话工作台"
+                    <TextBlock 
                                FontSize="10"
                                Foreground="#EAF3FF"
                                Opacity="0.92"/>
